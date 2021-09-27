@@ -56,7 +56,7 @@ hr {
 
 .list-item-inline {
      display: inline;
-     padding: 0rem 1rem;
+     padding: 0rem 0.3rem;
 }
 
 .navigation {
@@ -136,7 +136,7 @@ hr {
 .footer {
    background-color: var(--primary-color);
    color: var(--sky-blue);
-   padding: 1rem 1rem;  
+   padding: 1rem 0.5rem;  
    border-top-right-radius: 1rem;
    text-align: center;
    font-size: large;
@@ -159,7 +159,7 @@ hr {
      font-weight: bolder;
      font-size: large;
      color: var(--sky-blue);
-     padding-top: 1rem;
+     padding-top: 0.2rem;
 }
 
 #blog-headline {
